@@ -1,0 +1,10 @@
+{
+    "require": {
+        "rmasters/reverse@1.0": {
+            "rmasters/filter@1.0": {}
+        },
+        "rmasters/rotate@1.0": {
+            "rmasters/filter@2.0": {}
+        }
+    }
+}
